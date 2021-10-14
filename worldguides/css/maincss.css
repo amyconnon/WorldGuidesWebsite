@@ -1,0 +1,147 @@
+
+.navbar-brand {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 150%;
+    font-style:italic;
+}
+
+h1, h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(3, 78, 72);
+    /*color: cadetblue; great colour to use somewhere*/
+}
+
+h2 {
+    padding: 0%;
+    color: rgb(24, 73, 70);
+}
+
+h6 {
+    color: rgb(179, 179, 179);
+    text-align: center;
+    padding: 2%;
+}
+
+/* Container holding the image and the text */
+
+.container-fluid {
+    position: absolute;
+    text-align: center;
+    padding: 0%;
+    
+}
+
+/* Centered text */
+
+.centered {
+    position:absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#searchbutton {
+    color: rgb(70, 117, 113);
+}
+
+/* Style inputs, select elements and textareas */
+
+select, textarea {
+    width: 50%;
+    padding: 12px;
+}
+
+
+.foottext {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+text-align: center;
+
+    
+}
+
+.social {
+    margin: 1.5%;
+    width: 30px;
+    height: auto;
+}
+
+#followus {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+#info {
+    margin: 20%;
+}
+
+.col-12{
+    margin: 2%;
+}
+
+/* Start of FORM */
+
+#forms {
+    padding: 0%;
+}
+
+#foottext {
+    padding: 2%;
+}
+
+.form-group {
+    background-color: rgb(196, 216, 206);
+    width: 50%;
+    padding: 2%;
+    margin: auto;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#submitbutton {
+    text-align: right;
+}
+
+/* End of FORM */
+
+
+/* start of attration */
+
+#attractionname {
+    color: rgb(204, 193, 168);
+}
+
+h3 {
+    color: rgb(80, 155, 123);
+}
+
+main {
+    margin: 4%;
+}
+
+#attractioninfo {
+    text-align: left;
+}
+
+#dropdownMenuButton {
+    margin: 3%;
+}
+/* end of attration */
+
+/* start of lists */
+
+.list-group {
+    padding: 3%;
+}
+
+#listtitle{
+    padding: 2%;
+}
+
+.listbacker {
+    
+    background-color: rgb(246, 250, 248);
+}
+/* end of lists */
